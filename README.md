@@ -2,7 +2,7 @@
 
 ## I am a Backend Web Developer, Tech Entusiast, Linux enthusiast and a Cook !!! 💕 
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
 ### About Me 🙌
 - A student currently pursuing Bachelors In Computer Application.
 - Passionate about Web Development, Operating Systems, Low Level Programming, etc. and I'm always looking for new challenges.
