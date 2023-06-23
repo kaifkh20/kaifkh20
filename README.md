@@ -1,6 +1,6 @@
 ### Hi there, I am Kaif Khan 👋
 
-## I am a Backend Web Developer, Tech Entusiast, Linux enthusiast and a Cook !!! 💕 
+## I am a Backend Web Developer, Tech Enthusiast, Linux enthusiast and a Cook !!! 💕 
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*_wxwNuxszA6vwQIUMbF-fw.gif" alt="img">
 
