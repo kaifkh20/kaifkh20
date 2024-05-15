@@ -10,7 +10,7 @@
 - Open Source Enthusiast. (A Beginner) ✌ 
 
 <a href="https://drive.google.com/file/d/10Ldx3bT5kfu4uzkquFPyDd98DO4_0OMT/view?usp=sharing"> 
-### Get Resume 
+<h1>Get Resume</h1> 
 </a>
 
 
