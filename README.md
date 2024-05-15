@@ -9,7 +9,7 @@
 - Passionate about Web Development, Operating Systems, Low Level Programming, etc. and I'm always looking for new challenges.
 - Open Source Enthusiast. (A Beginner) ✌ 
 
-<h1><a href="https://drive.google.com/file/d/10Ldx3bT5kfu4uzkquFPyDd98DO4_0OMT/view?usp=sharing"> 
+<h1><a href="https://drive.google.com/file/d/10Ldx3bT5kfu4uzkquFPyDd98DO4_0OMT/view?usp=sharing" target="_blank"> 
    Get Resume
 </a></h1>
 
