@@ -14,6 +14,7 @@
    My Resume
 </a></h1>
 
+<p>Visit my other github to check on some of my earlier projects :- <a href="https://github.com/kaifkhan1">Here</a></p>
 
 ### Technology
 <p align="left">
