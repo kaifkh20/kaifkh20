@@ -10,7 +10,7 @@
 - Open Source Enthusiast. (A Beginner) ✌
 - I love learning languages (not just programming ones).
 
-<h1><a href="https://feji.us/ucm8l5" target="_blank"> 
+<h1><a href="https://drive.google.com/file/d/1N35sy9tgBtJ_hi4MsM_LrmhhbxKc2SSb/view?usp=sharing" target="_blank"> 
    My Resume
 </a></h1>
 
