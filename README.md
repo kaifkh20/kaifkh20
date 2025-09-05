@@ -7,23 +7,28 @@
 ## 🚀 About Me
 
 - 🎓 **Student** graduated in 2025, passionate about technology and lifelong learning.
-- 💡 Always exploring new ideas in AI, programming, and web development.
-- 🌍 Besides code, I enjoy learning languages (I know Arabic!) and love gaining knowledge from every field.
+- 💡 Exploring new ideas in AI, programming, and web development.
+- 🌍 I enjoy learning languages—picked up Arabic for fun and knowledge!
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C, Java, JavaScript
+- **Languages:** Python, C, Java, JavaScript
 - **AI & ML:** Machine Learning, Deep Learning
-- **Web Development:** HTML, CSS, JavaScript, frameworks
+- **Web Development:** HTML, CSS, JavaScript (and more)
 - **Other:** Data Structures & Algorithms, Software Engineering Principles
 
 ## 🌟 Favorite Projects
 
 - [AI-Codesearch](https://github.com/kaifkh20/ai-codesearch): Smart code search powered by machine learning
 - [AI-Engine](https://github.com/kaifkh20/ai-engine): Building intelligent AI solutions and frameworks
-- [Json-Parser-C](https://github.com/kaifkh20/json-parser-c): Lightweight JSON parser written in C
+- [Json-Parser-C](https://github.com/kaifkh20/json-parser-c): Lightweight JSON parser in C
+- [D2L](https://github.com/kaifkh20/d2l): Deep learning explorations
+- [TTOE-RL](https://github.com/kaifkh20/ttoe-rl): Reinforcement learning Tic-Tac-Toe
 
-_Explore all my work in the pinned repos!_
+## 📊 GitHub Stats
+
+![Kaif Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifkh20&show_icons=true&hide_title=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkh20&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
@@ -34,7 +39,10 @@ _Explore all my work in the pinned repos!_
 
 > Besides programming, I love learning languages—Arabic is one I picked up for knowledge! I believe in the power of curiosity and continuous learning.
 
+## 😂 Here’s a Funny GIF!
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Funny Coding Gif" />
+
 ---
 
 **Let’s build something amazing together!**
-
