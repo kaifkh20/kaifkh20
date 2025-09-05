@@ -41,7 +41,7 @@
 
 ## 😂 Here’s a Funny GIF!
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Funny Coding Gif" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdvamlmajh2NGJtdm5tbG5kaXp6b3ViOHhteWNmYXIzMTZqN29obCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="400" alt="Funny Coding Gif" />
 
 ---
 
